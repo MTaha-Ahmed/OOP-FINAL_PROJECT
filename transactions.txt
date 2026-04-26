@@ -1,0 +1,1 @@
+Transaction #1 | Cust ID: 1 | Name: Taha | Contact: - | Bought: 10x Pandol Xtra | Total: $120.000000 | Pharmacist Name: Dr. Bob
